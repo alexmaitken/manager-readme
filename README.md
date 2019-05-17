@@ -74,7 +74,8 @@ I will have my laptop with me that's visible to both of us as I make notes or we
 
 ### Example of doc:
 
-```17.05.2019
+```
+17.05.2019
 
 Discussion:
 * Baby due in 3 weeks.
